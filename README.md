@@ -5,7 +5,7 @@ _Enter a Task Description by Click Choice 1._
 
 ![Screenshot (53)](https://github.com/Rabiu7/To_Do_List/assets/132151445/272641ab-ab7d-4323-84f8-7cfd15ea5fca)
 
-## view Task
+## View Task
 _View Tasks by Click Choice 2._
 
 ![Screenshot (54)](https://github.com/Rabiu7/To_Do_List/assets/132151445/ac95d43c-c1b6-42c6-a13c-f3cd46c3dd89)
